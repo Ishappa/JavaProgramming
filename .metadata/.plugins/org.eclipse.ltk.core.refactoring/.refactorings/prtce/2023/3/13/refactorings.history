@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;prtce/src/Threads&apos;&#x0D;&#x0A;- Original project: &apos;prtce&apos;&#x0D;&#x0A;- Destination element: &apos;prtce/src/Threads&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     prtce.Ishwa.java&#x0D;&#x0A;     prtce.RunThreads.java&#x0D;&#x0A;     prtce.Threadsss.java" description="Copy compilation units" destination="/src&lt;Threads" element1="/src&lt;prtce{Ishwa.java" element2="/src&lt;prtce{RunThreads.java" element3="/src&lt;prtce{Threadsss.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1680143209989" units="3" version="1.0"/>
+</session>

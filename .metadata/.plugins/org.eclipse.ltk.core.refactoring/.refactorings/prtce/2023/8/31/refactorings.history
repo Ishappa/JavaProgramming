@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dhusa.Reverseno&apos; to &apos;Acc&apos;&#x0D;&#x0A;- Original project: &apos;prtce&apos;&#x0D;&#x0A;- Original element: &apos;dhusa.Reverseno&apos;&#x0D;&#x0A;- Renamed element: &apos;dhusa.Acc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Reverseno&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dhusa{Reverseno.java[Reverseno" matchStrategy="1" name="Acc" qualified="false" references="true" similarDeclarations="false" stamp="1691145671323" textual="false" version="1.0"/>
+</session>

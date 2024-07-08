@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Pattern.Mshape.java&apos; to &apos;MPattern.java&apos;&#x0D;&#x0A;- Original project: &apos;Pattern&apos;&#x0D;&#x0A;- Original element: &apos;Pattern.Mshape.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Pattern.MPattern.java&apos;" description="Rename compilation unit &apos;Mshape.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Pattern{Mshape.java" name="MPattern.java" references="false" stamp="1684829733429" version="1.0"/>
+</session>
