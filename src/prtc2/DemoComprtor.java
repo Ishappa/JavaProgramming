@@ -1,4 +1,4 @@
-package prtc;
+package prtc2;
 
 import java.util.TreeSet;
 
@@ -26,6 +26,8 @@ public class DemoComprtor {
 
 
 //        SortByAgeComprter s= new SortByAgeComprter();
+
+        
 
         TreeSet<DemoComprtor> t= new TreeSet<>(new SortByNameComprter());
         t.add(d1);

@@ -1,4 +1,4 @@
-package java8;
+package java8.ptrc;
 
 interface P1{
     default String display(){

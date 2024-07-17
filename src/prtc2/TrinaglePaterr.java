@@ -1,6 +1,4 @@
-package prtc;
-
-import java.util.*;
+package prtc2;
 
 public class TrinaglePaterr {
     // Function to demonstrate pattern

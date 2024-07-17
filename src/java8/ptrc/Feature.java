@@ -1,4 +1,4 @@
-package java8;
+package java8.ptrc;
 
 interface Feature {
     default void disp(){  //we can declare a default concrete methods

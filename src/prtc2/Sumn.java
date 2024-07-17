@@ -1,4 +1,4 @@
-package prtc;
+package prtc2;
 
 public class Sumn {
     public static void main(String[] args) {

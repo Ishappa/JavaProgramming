@@ -1,4 +1,4 @@
-package prtc;
+package prtc2;
 
 public class prtc {
     public static void main(String[] args) {
