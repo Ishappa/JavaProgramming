@@ -1,1 +1,1 @@
-# JavaProgramming
+# JavaProgramming Logiacle and basic coding
