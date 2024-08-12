@@ -1,4 +1,4 @@
-package Logical.Array;
+package Logical.basic;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -14,17 +14,9 @@ public class DuplicateRemoveSet {
         }
         System.out.println(set);
 
-        for (String str1:set) {
-            setItems=setItems+str1;
-            System.out.print(str1+" ");
-        }
+        for(int i=s.length-1; i>=0; i--) {
 
-//        System.out.print(setItems);
-
-        String rev="";
-        for (int i=setItems.length();i>0;i--){
-
-            System.out.print(setItems.charAt(i));
-        }
+            System.out.print(s[i]+" ");
     }
+}
 }

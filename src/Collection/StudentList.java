@@ -1,31 +1,41 @@
 package Collection;
 
-import lombok.Data;
-import lombok.ToString;
 
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-//@ToString
-@Data
 public class StudentList implements Comparable<StudentList> {
 
     int age;
     String name;
 
-    StudentList(int age, String name){
-        this.age=age;
-        this.name=name;
+   
+    public StudentList(int age, String name) {
+        this.age = age;
+        this.name = name;
     }
+    public int getAge() {
+        return age;
+    }
+    public String getName() {
+        return name;
+    }
+    public void setAge(int age) {
+        this.age = age;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+   
     @Override
     public int compareTo(StudentList s){
         return this.age-s.age;
     }
-//
-//    @Override
-//    public String toString(){
-//        return "Age is : "+age+" Name is : "+name;
-//    }
+
+   @Override
+   public String toString(){
+       return "Age is : "+age+" Name is : "+name;
+   }
 
 
 
