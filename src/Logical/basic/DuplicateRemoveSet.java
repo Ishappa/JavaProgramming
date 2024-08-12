@@ -1,5 +1,4 @@
-package prtc2;
-
+package Logical.Array;
 import java.util.HashSet;
 import java.util.Set;
 
